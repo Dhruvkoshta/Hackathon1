@@ -1,0 +1,19 @@
+.testimonials {
+    text-align: center;
+    padding: 50px;
+  }
+  .testimonials h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  .testimonial {
+    margin: 20px 0;
+    font-style: italic;
+  }
+  .testimonial span {
+    display: block;
+    margin-top: 10px;
+    color: #333;
+    font-weight: bold;
+  }
+  
